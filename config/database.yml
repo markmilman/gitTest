@@ -20,7 +20,9 @@ development:
   username: mark
   password: Maxim2012
 
-  #test1 change
+  # test2 change
+  # ***********
+
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
